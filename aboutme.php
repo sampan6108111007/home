@@ -124,7 +124,7 @@ github.io
             </ul>
           </li>
 		   <li class="nav-item has-treeview menu-close">
-            <a href="https://sampan6108111007.github.io/home/index.html" class="nav-link">
+            <a href="https://sampan6108111007.github.io/home/index.php" class="nav-link">
               <i class="nav-icon fas fa-bold"></i>
               <p>
                 สัมพันธ์ สุริยา
@@ -133,7 +133,7 @@ github.io
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="https://sampan6108111007.github.io/home/index.html" class="nav-link">
+                <a href="https://sampan6108111007.github.io/home/index.php" class="nav-link">
                   <i class="fas fa-home"></i>
                   <p>home</p>
                 </a>
