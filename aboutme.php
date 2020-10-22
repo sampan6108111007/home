@@ -133,7 +133,7 @@ github.io
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="index.php" class="nav-link">
+              <a href="index.php" class="nav-link active">
                   <i class="fas fa-home"></i>
                   <p>home</p>
                 </a>
