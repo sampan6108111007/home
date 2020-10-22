@@ -154,7 +154,7 @@ github.io
       </li>
 
       <li class="nav-item">
-        <a href="aboutme.html" class="nav-link">
+        <a href="aboutme.php" class="nav-link">
           <i class="far fa-address-card"></i>
           <p>
             ABOUTME
