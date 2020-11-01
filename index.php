@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>AdminLTE 3 | Dashboard</title>
+  <title>sampan6108111007 | AdminLTE 3</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Font Awesome -->
@@ -96,30 +96,149 @@ github.io
           <!-- li class="nav-item has-treeview menu-open" -->
           <li class="nav-item has-treeview">
             <a href="#" class="nav-link active">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <i class="nav-icon fas fa-book"></i>
               <p>
-                Nation University
+                วิชาที่สนใจ
                 <i class="right fas fa-angle-left"></i>
               </p>
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="http://www.nation.ac.th/index.php/th/faculty-of-bba" class="nav-link active">
+                <a href="#" class="nav-link active">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>คณะบริหารธุรกิจ</p>
+                  <p>php
+                  <i class="right fas fa-angle-left"></i>
+                </p>
                 </a>
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="https://sampan6108111007.000webhostapp.com/" class="nav-link ">
+                    <i class="far fa-circle nav-icon"></i>
+                    <p>ระบบ Login</p>                
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="https://pyramidphp.000webhostapp.com/" class="nav-link">
+                    <i class="far fa-circle nav-icon"></i>
+                    <p>การทำ pyramid    </p>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="https://github.com/sampan6108111007/CPSC331_631_php/tree/master/link3" class="nav-link">
+                    <i class="far fa-circle nav-icon"></i>
+                    <p>การเชื่อมโยง Link</p>
+                  </a>
+                </li>
+                </ul>
+              <li class="nav-item">
+                <a href="#" class="nav-link active">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>hci
+                    <i class="right fas fa-angle-left"></i>
+                  </p>
+                </a>
+                <ul class="nav nav-treeview">
+                  <li class="nav-item">
+                    <a href="https://github.com/sampan6108111007/CPSC321_631_hci_web_joom/tree/master/joom" class="nav-link ">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>Web Joom</p>                
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="https://github.com/sampan6108111007/CPSC321_631_hci/blob/master/IT.jpg" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>ข่าวเทคโนโลยี</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="https://github.com/sampan6108111007/adminlte" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>page ที่ชอบ adminlte</p>
+                    </a>
+                  </li>
+                  </ul>
               </li>
               <li class="nav-item">
-                <a href="http://www.nation.ac.th/index.php/th/component/sppagebuilder/124-" class="nav-link">
+                <a href="#" class="nav-link active">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>ส่วนงานไอที</p>
+                  <p>JAVA
+                    <i class="right fas fa-angle-left"></i>
+                  </p>
                 </a>
-              </li>
-              <li class="nav-item">
-                <a href="http://www.nation.ac.th/index.php/th/component/sppagebuilder/122-" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>ส่วนงานวิจัย</p>
-                </a>
+                <ul class="nav nav-treeview">
+                  <li class="nav-item">
+                    <a href="https://github.com/sampan6108111007/CPSC462_631_JAVA/blob/master/midterm-project_java.pdf" class="nav-link ">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>midterm-project</p>                
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="https://github.com/sampan6108111007/CPSC462_631_JAVA/blob/master/work_5_java_true.pdf" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>โปรแกรมที่ถูก</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="https://github.com/sampan6108111007/CPSC462_631_JAVA/blob/master/work8_java.pdf" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>ตัวอย่างคำสั่งต่างๆ</p>
+                    </a>
+                  </li>
+                  </ul>
+                  <li class="nav-item">
+                    <a href="#" class="nav-link active">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>Database
+                        <i class="right fas fa-angle-left"></i>
+                      </p>
+                    </a>
+                    <ul class="nav nav-treeview">
+                      <li class="nav-item">
+                        <a href="https://github.com/sampan6108111007/2563_CPSC322_DB_CPSC312_SAD/blob/master/Assignment-3.pdf" class="nav-link ">
+                          <i class="far fa-circle nav-icon"></i>
+                          <p>ฝึกตั้งโจทย์ตอบคำถาม</p>                
+                        </a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="https://github.com/sampan6108111007/2563_CPSC322_DB_CPSC312_SAD/blob/master/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%20ER.pdf" class="nav-link">
+                          <i class="far fa-circle nav-icon"></i>
+                          <p>การแปลง E-R</p>
+                        </a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="https://github.com/sampan6108111007/2563_CPSC322_DB_CPSC312_SAD/blob/master/Assignment%20%237%20EER-Diagram.pdf" class="nav-link">
+                          <i class="far fa-circle nav-icon"></i>
+                          <p>Supertype และ Subtype</p>
+                        </a>
+                      </li>
+                      </ul>
+                      <li class="nav-item">
+                        <a href="#" class="nav-link active">
+                          <i class="far fa-circle nav-icon"></i>
+                          <p>React Native
+                            <i class="right fas fa-angle-left"></i>
+                          </p>
+                        </a>
+                        <ul class="nav nav-treeview">
+                          <li class="nav-item">
+                            <a href="https://github.com/sampan6108111007/CPSC_431_React_Native/blob/main/aj_save/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B9%88%203%20midterm_sampan%206108111007.pdf" class="nav-link ">
+                              <i class="far fa-circle nav-icon"></i>
+                              <p>App การคำนวณ</p>                
+                            </a>
+                          </li>
+                          <li class="nav-item">
+                            <a href="https://github.com/sampan6108111007/CPSC_431_React_Native/blob/main/aj_save/lab3_sampan_6108111007.pdf" class="nav-link">
+                              <i class="far fa-circle nav-icon"></i>
+                              <p>หน้า Login</p>
+                            </a>
+                          </li>
+                          <li class="nav-item">
+                            <a href="https://github.com/sampan6108111007/CPSC_431_React_Native/blob/main/aj_save/PRG4%20%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%202_6108111007_Sampan.pdf" class="nav-link">
+                              <i class="far fa-circle nav-icon"></i>
+                              <p>TextInput ไปยังอีกหน้า</p>
+                            </a>
+                          </li>
+                          </ul>
               </li>
             </ul>
           </li>
@@ -133,11 +252,21 @@ github.io
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="https://sampan6108111007.github.io/home/index.html" class="nav-link">
+                <a href="index.php" class="nav-link">
                   <i class="fas fa-home"></i>
-                  <p>home</p>
+                  <p>HOME</p>
                 </a>
               </li>
+
+              <li class="nav-item">
+                <a href="aboutme.php" class="nav-link">
+                  <i class="far fa-address-card"></i>
+                  <p>
+                    ABOUT ME
+                  </p>
+                </a>
+              </li>
+        
               <li class="nav-item">
                 <a href="https://web.facebook.com/profile.php?id=100029279708428" class="nav-link">
                   <i class="fab fa-facebook"></i>
@@ -153,14 +282,51 @@ github.io
         </ul>
       </li>
 
-      <li class="nav-item">
-      <a href="aboutme.php" class="nav-link active">
-          <i class="far fa-address-card"></i>
+      <li class="nav-item has-treeview menu-close">
+        <a href="https://sampan6108111007.github.io/home/index.html" class="nav-link">
+          <i class="nav-icon fas fa-briefcase"></i>
           <p>
-            ABOUTME
+            โปรเจ็คที่น่าสนใจ
+            <i class="right fas fa-angle-left"></i>
           </p>
         </a>
-      </li>
+        <ul class="nav nav-treeview">
+          <li class="nav-item">
+            <a href="http://www.msit.mut.ac.th/thesis/Thesis_2559/(IT)%20%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%20%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%E0%B8%9E%E0%B8%B5%20%E0%B9%82%E0%B8%AE%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%94%20%E0%B8%94%E0%B8%A3%E0%B8%B4%E0%B9%8A%E0%B8%87%E0%B8%81%E0%B9%8C.pdf" class="nav-link">
+              <i class="far fa-circle nav-icon"></i>
+              <p>ระบบการจัดการร้าน</p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="http://203.209.55.184/newweb/thesis/Thesis_2553/031%20%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3.pdf" class="nav-link">
+              <i class="far fa-circle nav-icon"></i>  
+              <p>ระบบการจัดการร้านอาหาร</p>
+            </a>
+          </li>
+    
+          <li class="nav-item">
+            <a href="https://www.dpu.ac.th/dpuir/upload/file/it_project/is/otop.pdf" class="nav-link">
+              <i class="far fa-circle nav-icon"></i>
+              <p>ระบบขายสินค้า OTOP</p>
+            </a>
+          </li>              
+      <li class="nav-item">
+        <a href="https://www.dpu.ac.th/dpuir/upload/file/it_project/is/cosmetic.pdf" class="nav-link">
+          <i class="far fa-circle nav-icon"></i>
+          <p>ระบบ E-Commerce</p>
+        </a>
+      </li>              
+    </ul>
+  </li>
+      <!-- <li class="nav-item">
+        <a href="pyramid.html" class="nav-link">
+          <i class="fas fa-triangle"></i>
+          <p>
+            PYRAMID
+          </p>
+        </a>
+      </li> -->
 
           <li class="nav-item">
             <a href="http://www.thaiall.com/web2" class="nav-link">
